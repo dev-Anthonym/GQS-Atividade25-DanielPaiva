@@ -25,7 +25,7 @@ Para garantir a cobertura e robustez do código, foram utilizados testes paramet
 
 ## 🚀 Como Executar o Projeto Localmente
 
-Siga as instruções abaixo no seu terminal para clonar, compilar e testar a solução:
+Siga as instruções abaixo dentro do seu terminal para clonar o código, compilar e testar a solução:
 
 ### 1. Clonar o Repositório
 ```bash

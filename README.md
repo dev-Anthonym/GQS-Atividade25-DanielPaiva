@@ -21,7 +21,7 @@ Uma aplicação em .NET 10 desenvolvida para a disciplina de **Garantia da Quali
 
 Para garantir a cobertura e robustez do código, foram utilizados testes parametrizados com as anotações `[Theory]` e `[InlineData]` do xUnit. Isso permite testar múltiplos cenários de entrada e saídas esperadas em um único método de teste, cobrindo com precisão as faixas de valores e limites especificados nas regras de negócio.
 
----
+----
 
 ## 🚀 Como Executar o Projeto Localmente
 
